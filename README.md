@@ -12,7 +12,7 @@ A production-style **Extract, Transform, Load (ETL)** pipeline that fetches **li
 
 ## Pipeline Output
 
-![Pipeline Run](screenshot.png)
+![Pipeline Run](Screenshot.png)
 
 ---
 
@@ -182,4 +182,4 @@ PERIOD  = "6mo"   # Options: 1mo, 3mo, 6mo, 1y, 2y
 **Nithin Kumar Reddy Panthula**
 MS Cybersecurity, Auburn University at Montgomery
 Atlanta, GA
-[LinkedIn](https://linkedin.com/in/nithin-panthula) | [GitHub](https://github.com/nithin2357-hue)
+[LinkedIn](https://linkedin.com/in/nithin-panthula-681855334) | [GitHub](https://github.com/nithin2357-hue)
